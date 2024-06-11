@@ -5,14 +5,16 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(20, 20, 20);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("Azul.jpg");
+    background-image: url("binary-2904980_1280.jpg");
     background-repeat: no-repeat;
-
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
