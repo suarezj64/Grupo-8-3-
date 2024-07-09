@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(0, 0, 0);
+    color:white
 }
 .principal{
    display: flex;
@@ -17,4 +17,8 @@ body{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+}
+.titulo{
+    font-size: 50px
+    ; color:white
 }
