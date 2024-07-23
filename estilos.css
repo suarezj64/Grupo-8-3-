@@ -6,19 +6,22 @@
     padding-top: 140px;
     text-align: justify;
     color:white
+    @import url(<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap" rel="stylesheet">);
+    color: #ffffff;
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("binary-2904980_1280.jpg");
+    background-image: url("wallpaper_the_last_of_us_remastered_01_1920x1080.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    color: white;
 }
 .titulo{
     font-size: 50px
-    ; color:white
+    color: #ffffff
 }
